@@ -48,3 +48,11 @@ Data is saved in:
 ---
 
 ## 📁 Project Structure
+---
+
+##  How to Run the Project
+
+1. Make sure Python is installed.  
+2. Open terminal / cmd  
+3. Navigate to the folder  
+4. Run:
