@@ -37,8 +37,10 @@ Marks *P (Present)* or *A (Absent)* for today's date.
 - View attendance on a specific date  
 
 ###  Show All Students  
+List all registered students
 
 ###  Delete Student  
+removes a student by roll number
 
 ###  File-Based Storage  
 Data is saved in:
@@ -48,5 +50,17 @@ Data is saved in:
 ---
 
 ## 📁 Project Structure
----
+├── attendance.py          # Main application file
+├── attendance.txt         # Auto-generated storage file
+├── screenshots/           # Screenshots for demonstration
+│     ├── 1.png
+│     ├── 2.png
+│     └── ...
+├── statement.md           # Problem, scope & features (required)
+└── README.md              # Project documentation
 
+### Technologies Used
+	•	Python 3
+	•	File handling (open, read, write)
+	•	Date handling (datetime.date)
+	•	Custom delimiter-based data parsing
