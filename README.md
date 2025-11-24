@@ -16,7 +16,7 @@ All data is stored in a simple *attendance.txt* file.
 
 *Course:* Python Programming  
 *Student Name:* Rudraveer Singh  
-*Registration Number:* 25BCE10669  
+*Registration Number:* 25BCE10659  
 *Project Type:* CLI-based CRUD Application  
 *Semester:* 1st Semester  
 
