@@ -1,6 +1,5 @@
 # Student Attendance Management System (CRUD)
 
-This is a simple *Command-Line Based Student Attendance Application* built as part of the *VITyarthi Course Project*.
 
 The project implements complete *CRUD operations*:
 - *Create* – Add a new student  
